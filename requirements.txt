@@ -1,0 +1,15 @@
+pyautogen
+streamlit
+yfinance
+numpy
+pandas
+fastapi
+uvicorn
+textblob
+ta
+python-dotenv
+ag2[openai]
+autogen
+requests
+tools
+ag2[groq]
